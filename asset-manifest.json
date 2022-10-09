@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Zomato/static/css/main.ae6d76c4.css",
+    "main.js": "/Zomato/static/js/main.13d8821b.js",
+    "static/js/787.f587e8d5.chunk.js": "/Zomato/static/js/787.f587e8d5.chunk.js",
+    "static/media/location.png": "/Zomato/static/media/location.64cdcb0ef97818161310.png",
+    "index.html": "/Zomato/index.html",
+    "main.ae6d76c4.css.map": "/Zomato/static/css/main.ae6d76c4.css.map",
+    "main.13d8821b.js.map": "/Zomato/static/js/main.13d8821b.js.map",
+    "787.f587e8d5.chunk.js.map": "/Zomato/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae6d76c4.css",
+    "static/js/main.13d8821b.js"
+  ]
+}
